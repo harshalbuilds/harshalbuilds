@@ -9,7 +9,7 @@
 ## 🚀 Current Projects
 
 🔹 CorpNet Secure Proxy (AWS Cloud Proxy Server)  
-🔹 Migration of On-Prem SOC to Cloud  
+🔹 Migration of On-Premise SOC to Cloud Case Study
 🔹 Ethical Hacking Case Study  
 
 ---
@@ -21,8 +21,6 @@
 - Networking
 - AWS EC2
 - Git & GitHub
-- Data Analysis
-
 ---
 
 ## 📈 Currently Learning
