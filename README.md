@@ -29,11 +29,9 @@
 
 - Advanced Cloud Security
 - Ethical Hacking
-- Machine Learning Fundamentals
-
+- Google Cybersecurity
 ---
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your link)
-- Email: moreharsh4517@gmail.com
+- LinkedIn: https://www.linkedin.com/in/harshal-more-b772bb382/
