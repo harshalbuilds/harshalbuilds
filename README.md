@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Harshal 👋
 
-<!--
-**harshalbuilds/harshalbuilds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 BSc Computer Science Student  
+☁️ Cloud Computing & Cyber Security Enthusiast  
+🔐 Passionate about building secure and scalable systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Current Projects
+
+🔹 CorpNet Secure Proxy (AWS Cloud Proxy Server)  
+🔹 Migration of On-Prem SOC to Cloud  
+🔹 Ethical Hacking Case Study  
+
+---
+
+## 🛠️ Skills
+
+- Python
+- Linux
+- Networking
+- AWS EC2
+- Git & GitHub
+- Data Analysis
+
+---
+
+## 📈 Currently Learning
+
+- Advanced Cloud Security
+- Ethical Hacking
+- Machine Learning Fundamentals
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: (Add your link)
+- Email: moreharsh4517@gmail.com
