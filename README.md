@@ -6,14 +6,6 @@
 
 ---
 
-## 🚀 Current Projects
-
-🔹 CorpNet Secure Proxy (AWS Cloud Proxy Server)  
-🔹 Migration of On-Premise SOC to Cloud Case Study
-🔹 Ethical Hacking Case Study  
-
----
-
 ## 🛠️ Skills
 
 - Python
