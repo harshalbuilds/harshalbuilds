@@ -1,7 +1,7 @@
 # Hi, I'm Harshal 👋
 
 🎓 BSc Computer Science Student  
-☁️ Cloud Computing & Cyber Security Enthusiast  
+☁️ Cloud Computing & Cyber Security Enthusiast
 🔐 Passionate about building secure and scalable systems  
 
 ---
